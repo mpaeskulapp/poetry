@@ -1,5 +1,4 @@
-total 0
-drwxr-xr-x@   8 tlberglund  staff   272 May 13 15:16 Box Documents
+total 9001
 drwx------+   4 tlberglund  staff   136 May 21 09:27 Desktop
 drwx------+  49 tlberglund  staff  1666 Apr  8 15:52 Documents
 drwx------+  50 tlberglund  staff  1700 May 19 22:00 Downloads
