@@ -1,2 +1,15 @@
 junk*.txt
+build/
+target/
+bin/
+out/
+.project
+private/
+.classpath
+.settings/
+*.iml
+*.prj
+.DS_Store
+thumbs.db
+*.log
 
